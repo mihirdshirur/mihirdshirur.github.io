@@ -14,7 +14,7 @@ Education
 * B.S. in Mathematics, Indian Institute of Science, Bangalore, 2023
 * M.S. in Mathematics, Indian Institute of Science, Bangalore, 2024 (expected)
 
-Work experience
+Experience
 ======
 * Spring 2023-: Undergraduate Research Assistant
   * Indian Institute of Science
