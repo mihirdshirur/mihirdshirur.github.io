@@ -22,9 +22,9 @@ Experience
   * Bachelor's Thesis
 
 * Summer 2022: DIMACS REU Internship
-  * Rutgers University
-  * Supervisor: [Siddhartha Sahi](https://sites.math.rutgers.edu/~sahi/)
-  * [Website](http://reu.dimacs.rutgers.edu/~md1729/)
+   Rutgers University
+   Supervisor: [Siddhartha Sahi](https://sites.math.rutgers.edu/~sahi/)
+   [Website](http://reu.dimacs.rutgers.edu/~md1729/)
  
 Publications
 ======
