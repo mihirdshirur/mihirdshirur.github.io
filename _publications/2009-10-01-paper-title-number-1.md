@@ -1,6 +1,6 @@
 ---
 title: "A Continuous Structural Intervention Distance to Compare Causal Graphs"
-collection: publications
+collection: 
 permalink: 
 excerpt: Mihir Dhanakshirur, Felix Laumann, Junhyung Park and Mauricio Barahona.
 date: 
