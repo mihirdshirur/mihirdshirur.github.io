@@ -26,11 +26,3 @@ Experience
    Supervisor: [Siddhartha Sahi](https://sites.math.rutgers.edu/~sahi/)
    [Website](http://reu.dimacs.rutgers.edu/~md1729/)
  
-Publications
-======
-* A Continuous Structural Intervention Distance to Compare Causal Graphs
-  * Mihir Dhanakshirur, Felix Laumann, Junhyung Park and Mauricio Barahona.
-  * Submitted.
-  * [arXiv](https://arxiv.org/abs/2307.16452)
-  
-
